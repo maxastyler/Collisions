@@ -1,1 +1,7 @@
 messy/*
+doc/collisions.aux
+doc/collisions.fdb_latexmk
+doc/collisions.fls
+doc/collisions.log
+doc/collisions.pdf
+doc/collisions.synctex.gz
